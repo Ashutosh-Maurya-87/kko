@@ -1,0 +1,21 @@
+.learnmore, .profile {
+    background-color: #121518 !important;
+}
+button.learnmore.dropdown-toggle.btn.btn-primary{
+    padding-top: 4px;
+
+}
+
+button.dropdown-toggle.btn.btn-primary {
+    background: none;
+}
+
+.btn.profile.dropdown {
+    background: none;
+    border: none;
+}
+
+.fa-shopping-basket{
+    font-size: 25px;
+    color: #AA9166
+}

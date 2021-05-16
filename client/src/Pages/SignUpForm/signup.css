@@ -1,0 +1,29 @@
+.signupRow1{
+    background-color: #F4F0DA;
+    height: 100vh;
+}
+.signupRight {
+    background-color: #B2D765;
+}
+.signupLeft, .signup-image{
+    height: 100vh;
+    padding: 0px !important;
+}
+.signup-form{
+    height: 100%;
+}
+.errorMessage {
+    color: red;
+    flex-basis: 350px;
+    max-width: 350px;
+    font-size: .875rem;
+}
+.form-horizontal {
+    margin-top: 25%;
+    margin-left: 10%;
+}
+.message{
+    color: rgb(88, 223, 47);
+    font-size: 11px;
+    z-index: 999;
+}

@@ -1,0 +1,17 @@
+.loginRow1{
+    background-color: #F4F0DA;
+    height: 100vh;
+}
+
+.loginLeft, .login-image{
+    height: 100vh;
+}
+.login-form{
+    height: 100vh;
+}
+.errorMessage {
+    color: red;
+    flex-basis: 350px;
+    max-width: 350px;
+    font-size: .875rem;
+}

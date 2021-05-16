@@ -1,0 +1,19 @@
+1. signup
+    user/admin
+        Page responsiveness
+        toaster
+        error message
+        successmessage
+        email otp, email confirmation, 
+        user verification- 
+        validation when user enters invalid credentials
+        is user admin/ super admin
+2. Login
+    Not getting contact in response
+3. forgot-password
+
+4. reset-password   
+5. cart page
+6. Scrap list
+	top bar- categorised scraps
+7. create category, create scrap type page

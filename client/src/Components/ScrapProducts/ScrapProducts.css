@@ -1,0 +1,107 @@
+.scrapListRow{
+  /* background-color: #7ee8fa;
+background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%); */
+background-color: #fbfeff;
+
+}
+.grid-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: auto auto auto auto;
+    /* background-color: #14b975; */
+    padding: 10px;
+  
+  }
+  .scrapCardBody{
+    box-shadow: 1px 1px 12px 4px rgba(179,113,113,0.73);
+    -webkit-box-shadow: 1px 1px 12px 4px rgba(179,113,113,0.73);
+    -moz-box-shadow: 1px 1px 12px 4px rgba(179,113,113,0.73);
+    margin-top: 20px;
+    border-radius: 10px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    background-color: #bbf0f3;
+    background-image: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%); 
+  }
+
+  .scrapCardTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+  
+  .grid-item {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(238, 51, 191, 0.8);
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 15px;
+    text-align: center;
+    box-shadow: 2px 3px 5px 0px rgba(220,187,187,0.75);
+-webkit-box-shadow: 2px 3px 5px 0px rgba(220,187,187,0.75);
+-moz-box-shadow: 2px 3px 5px 0px rgba(220,187,187,0.75);
+  }
+
+  img{
+    height:150px;
+    width:100%;
+  }
+  
+  div [class^="col-"]{
+    padding-left:5px;
+    padding-right:5px;
+  }
+  .scrap {
+    transition:0.5s;
+    cursor:pointer;
+  }
+  .scrap-title{  
+    font-size:15px;
+    transition:1s;
+    cursor:pointer;
+  }
+  .scrap-title i{  
+    font-size:15px;
+    transition:1s;
+    cursor:pointer;
+    color:#ffa710
+  }
+  .scrap-title i:hover{
+    transform: scale(1.25) rotate(100deg); 
+    color:#18d4ca;
+    
+  }
+  .scrap :hover{
+    transform: scale(1.05);
+    box-shadow: 10px 10px 15px rgba(0,0,0,0.3);
+  }
+  .scrap-text{
+    height:20px;
+    font-size: 10px; 
+    margin-bottom: 5px;
+  }
+
+  .scrap ::before, .scrap ::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform: scale3d(0, 0, 1);
+    transition: transform .3s ease-out 0s;
+    background: rgba(255, 255, 255, 0.1);
+    content: '';
+    pointer-events: none;
+    border-radius: 5px;
+  }
+  .scrap ::before {
+    transform-origin: left top;
+  }
+  .scrap ::after {
+    transform-origin: right bottom;
+  }
+  .scrap :hover::before, .scrap :hover::after, .scrap :focus::before, .scrap :focus::after {
+    transform: scale3d(1, 1, 1);
+  }

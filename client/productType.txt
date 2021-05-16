@@ -1,0 +1,51 @@
+1. Metal
+	a. Iron -  wt, price 18/kg
+	b. Steel	20/kg
+	c. aluminium	6-/kg
+	d. copper	200/kg
+	e. Tin		10/kg
+	f. Brass	150kg
+	g. industrial waste	10kg
+2. paper
+	a. newspapper - 10/kf
+	b. books	6/kg
+	c. carton/corrugation/gatta	14/kg
+	d. Magezines	5/kg
+	e. white paper
+	f Grey-board
+	g. Carton
+	h. copy
+	i. record paper
+	j. mill board		1/kg
+3. plastic
+	a. softplasctic 	6kg
+	b. Hard plastic		2/kg
+	c. Mix plastic		4/kg
+	d. milk covers		2/kg
+	e. water/oil covers	3/kg
+	f. polythene		4/kg
+	g. plastic jar(15ltr)		7/pc
+	h. Fibre		5/kg
+	i. plastic jar(5ltr)		2/pc
+4. E-waste
+	a. e-waste	8/kg
+5. Vehicle
+	motorcycle	2200/pc
+	scooter		2000/pc
+6. electronics item
+	a. washing machine	750/pc
+	b. AC 1.5 ton		3500/pc
+	c. AC 1 ton		2000/pc
+	d. AC 2 ton		4000/pc
+	e. Refrigerator		800/pc
+	f. Double door Fridge	1100/pc
+	g. White battery	80/kg
+	h. black battery	75/kg
+	i. inverter		55/kg
+	j. motor		45/kg
+	
+5. other
+	a. beer bottel	.5/pc
+	b. mix waste	4/kg
+	c. type		3/kg
+	d. waste oil	20/ltr

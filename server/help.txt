@@ -1,0 +1,14 @@
+------- instructions--------
+Content-Type --> applciation/json
+Content-Lenght --> <calculated when request is sent>
+        must be enabled
+Authorization --> Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDZmNTZlZTZkYjMwOTMwM2M5OTJmZWEiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOj
+        muct include Bearer
+
+.--- Types of user-
+    1. SuperAdmin - SA
+    2. Admin    - AD
+    3. Vendor   - VN
+    4. Scrap-dealers- SD
+    5. Business-Partner - BP
+    6. User - US
